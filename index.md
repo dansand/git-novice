@@ -63,10 +63,7 @@ to be shared can and should be stored in a version control system.
 6.  [Ignoring Things](06-ignore.html)
 7.  [Remotes in GitHub](07-github.html)
 8.  [Collaborating](08-collab.html)
-9.  [Conflicts](09-conflict.html)
-10. [Open Science](10-open.html)
-11. [Licensing](11-licensing.html)
-12. [Hosting](12-hosting.html)
+
 
 ## Other Resources
 
